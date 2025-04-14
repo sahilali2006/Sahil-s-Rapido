@@ -68,12 +68,11 @@ h1:hover{
 
 
 .line1{
-    /* height: 16%; */
+    
     height: 8vh;
-    /* width: 100%; */
+    
     width:40vw;
     color: rgb(0, 0, 0);
-    /* background-color: rgb(132, 53, 53); */
     display: flex;
     align-items: center;
     justify-content: center;
@@ -155,7 +154,7 @@ button:hover{
 
 
 .ourservices{
-    /* height: 100px; */
+    
     margin-left: 180px;
     font-size: 50px;
     font-weight: 700;
